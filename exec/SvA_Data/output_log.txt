@@ -1,0 +1,32 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x9851)
+    Vendor:   ATI
+    VRAM:     3047 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Zamus\Documents\SvA\SamuraiVsAliens\exec\SvA_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Zamus\Documents\SvA\SamuraiVsAliens\exec\SvA_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Zamus\Documents\SvA\SamuraiVsAliens\exec\SvA_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Zamus\Documents\SvA\SamuraiVsAliens\exec\SvA_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Zamus\Documents\SvA\SamuraiVsAliens\exec\SvA_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Zamus\Documents\SvA\SamuraiVsAliens\exec\SvA_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Zamus\Documents\SvA\SamuraiVsAliens\exec\SvA_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Zamus\Documents\SvA\SamuraiVsAliens\exec\SvA_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.421 seconds
+Platform assembly: C:\Users\Zamus\Documents\SvA\SamuraiVsAliens\exec\SvA_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Zamus\Documents\SvA\SamuraiVsAliens\exec\SvA_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.531459 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1bb8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 19.784370 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 221.
+Total: 0.805860 ms (FindLiveObjects: 0.071814 ms CreateObjectMapping: 0.044114 ms MarkObjects: 0.647356 ms  DeleteObjects: 0.040010 ms)
+

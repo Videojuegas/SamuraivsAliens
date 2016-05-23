@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: aae31914a80a9dc4cb39ce0daf8296b1
+timeCreated: 1463884148
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f00000060000000610000006200000063000000640000006500000066000000670000006800000069000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0b028f24932fcb5f27e4bcebb2045448
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.312268, y: 2.8861957, z: -1.7229226}
+      lookAt: {x: 2.1120753, y: 0.6116246, z: 0.45991963}
+      up: {x: -0.065761715, y: 0.6939168, z: 0.71704596}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 10
+    100002: Group 12
+    100004: Group 14
+    100006: Group 16
+    100008: Group 18
+    100010: Group 2
+    100012: Group 20
+    100014: Group 22
+    100016: Group 24
+    100018: Group 26
+    100020: Group 28
+    100022: Group 30
+    100024: Group 32
+    100026: Group 34
+    100028: Group 36
+    100030: Group 38
+    100032: Group 4
+    100034: Group 40
+    100036: Group 6
+    100038: Group 8
+    100040: //RootNode
+    100042: terasova doska
+    100044: terasova doska 1
+    100046: terasova doska 10
+    100048: terasova doska 11
+    100050: terasova doska 12
+    100052: terasova doska 13
+    100054: terasova doska 14
+    100056: terasova doska 15
+    100058: terasova doska 16
+    100060: terasova doska 17
+    100062: terasova doska 18
+    100064: terasova doska 19
+    100066: terasova doska 2
+    100068: terasova doska 20
+    100070: terasova doska 21
+    100072: terasova doska 22
+    100074: terasova doska 23
+    100076: terasova doska 24
+    100078: terasova doska 25
+    100080: terasova doska 26
+    100082: terasova doska 27
+    100084: terasova doska 28
+    100086: terasova doska 29
+    100088: terasova doska 3
+    100090: terasova doska 30
+    100092: terasova doska 31
+    100094: terasova doska 4
+    100096: terasova doska 5
+    100098: terasova doska 6
+    100100: terasova doska 7
+    100102: terasova doska 8
+    100104: terasova doska 9
+    400000: Group 10
+    400002: Group 12
+    400004: Group 14
+    400006: Group 16
+    400008: Group 18
+    400010: Group 2
+    400012: Group 20
+    400014: Group 22
+    400016: Group 24
+    400018: Group 26
+    400020: Group 28
+    400022: Group 30
+    400024: Group 32
+    400026: Group 34
+    400028: Group 36
+    400030: Group 38
+    400032: Group 4
+    400034: Group 40
+    400036: Group 6
+    400038: Group 8
+    400040: //RootNode
+    400042: terasova doska
+    400044: terasova doska 1
+    400046: terasova doska 10
+    400048: terasova doska 11
+    400050: terasova doska 12
+    400052: terasova doska 13
+    400054: terasova doska 14
+    400056: terasova doska 15
+    400058: terasova doska 16
+    400060: terasova doska 17
+    400062: terasova doska 18
+    400064: terasova doska 19
+    400066: terasova doska 2
+    400068: terasova doska 20
+    400070: terasova doska 21
+    400072: terasova doska 22
+    400074: terasova doska 23
+    400076: terasova doska 24
+    400078: terasova doska 25
+    400080: terasova doska 26
+    400082: terasova doska 27
+    400084: terasova doska 28
+    400086: terasova doska 29
+    400088: terasova doska 3
+    400090: terasova doska 30
+    400092: terasova doska 31
+    400094: terasova doska 4
+    400096: terasova doska 5
+    400098: terasova doska 6
+    400100: terasova doska 7
+    400102: terasova doska 8
+    400104: terasova doska 9
+    2300000: Group 10
+    2300002: Group 12
+    2300004: Group 14
+    2300006: Group 16
+    2300008: Group 18
+    2300010: Group 2
+    2300012: Group 20
+    2300014: Group 22
+    2300016: Group 24
+    2300018: Group 26
+    2300020: Group 28
+    2300022: Group 30
+    2300024: Group 32
+    2300026: Group 34
+    2300028: Group 36
+    2300030: Group 38
+    2300032: Group 4
+    2300034: Group 40
+    2300036: Group 6
+    2300038: Group 8
+    2300040: //RootNode
+    2300042: terasova doska
+    2300044: terasova doska 1
+    2300046: terasova doska 10
+    2300048: terasova doska 11
+    2300050: terasova doska 12
+    2300052: terasova doska 13
+    2300054: terasova doska 14
+    2300056: terasova doska 15
+    2300058: terasova doska 16
+    2300060: terasova doska 17
+    2300062: terasova doska 18
+    2300064: terasova doska 19
+    2300066: terasova doska 2
+    2300068: terasova doska 20
+    2300070: terasova doska 21
+    2300072: terasova doska 22
+    2300074: terasova doska 23
+    2300076: terasova doska 24
+    2300078: terasova doska 25
+    2300080: terasova doska 26
+    2300082: terasova doska 27
+    2300084: terasova doska 28
+    2300086: terasova doska 29
+    2300088: terasova doska 3
+    2300090: terasova doska 30
+    2300092: terasova doska 31
+    2300094: terasova doska 4
+    2300096: terasova doska 5
+    2300098: terasova doska 6
+    2300100: terasova doska 7
+    2300102: terasova doska 8
+    2300104: terasova doska 9
+    3300000: Group 10
+    3300002: Group 12
+    3300004: Group 14
+    3300006: Group 16
+    3300008: Group 18
+    3300010: Group 2
+    3300012: Group 20
+    3300014: Group 22
+    3300016: Group 24
+    3300018: Group 26
+    3300020: Group 28
+    3300022: Group 30
+    3300024: Group 32
+    3300026: Group 34
+    3300028: Group 36
+    3300030: Group 38
+    3300032: Group 4
+    3300034: Group 40
+    3300036: Group 6
+    3300038: Group 8
+    3300040: //RootNode
+    3300042: terasova doska
+    3300044: terasova doska 1
+    3300046: terasova doska 10
+    3300048: terasova doska 11
+    3300050: terasova doska 12
+    3300052: terasova doska 13
+    3300054: terasova doska 14
+    3300056: terasova doska 15
+    3300058: terasova doska 16
+    3300060: terasova doska 17
+    3300062: terasova doska 18
+    3300064: terasova doska 19
+    3300066: terasova doska 2
+    3300068: terasova doska 20
+    3300070: terasova doska 21
+    3300072: terasova doska 22
+    3300074: terasova doska 23
+    3300076: terasova doska 24
+    3300078: terasova doska 25
+    3300080: terasova doska 26
+    3300082: terasova doska 27
+    3300084: terasova doska 28
+    3300086: terasova doska 29
+    3300088: terasova doska 3
+    3300090: terasova doska 30
+    3300092: terasova doska 31
+    3300094: terasova doska 4
+    3300096: terasova doska 5
+    3300098: terasova doska 6
+    3300100: terasova doska 7
+    3300102: terasova doska 8
+    3300104: terasova doska 9
+    4300000: Mesh Group#11
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Group 6
+    4300008: Mesh Group 8
+    4300010: Mesh Group 10
+    4300012: Mesh Group 12
+    4300014: Mesh Group 14
+    4300016: Mesh Group 16
+    4300018: Mesh Group 18
+    4300020: Mesh Group 20
+    4300022: Mesh terasova doska
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -33,7 +33,7 @@ function Start ()
 	  
 	transform.rotation = Quaternion.LookRotation(Vector3.right);
 	newRotation = transform.rotation;
-
+	
 	if (life <= 0) life = Mathf.Infinity;
 
 }
@@ -166,7 +166,7 @@ function Jump (inputValue: float): float
 //-------------------------------------------------------------------------------------------------------------------------
 function Attack (inputValue: float): float
 { 
-  // rigidbody.AddForce(transform.forward * movementSpeed, ForceMode.Force);
+   GetComponent.<Rigidbody>().AddForce(transform.forward * movementSpeed, ForceMode.Force);
    return 1;
 
 }

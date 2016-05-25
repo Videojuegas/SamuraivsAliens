@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 0cdfc5e497f2b1c45865cad0f5d6bf55
+timeCreated: 1464127633
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: ec8b9ac3297d8febadc8dca97554bb56
+  longitude: -46.63515261521
+  latitude: -23.55683591646
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 12.643451, y: 10.109719, z: -18.27467}
+      lookAt: {x: 0.73612356, y: 5.937878, z: -0.4151163}
+      up: {x: -0.10583448, y: 0.9816318, z: 0.15873893}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component
+    100002: Component1
+    100004: Component2
+    100006: Component3
+    100008: Component4
+    100010: //RootNode
+    100012: skp6499
+    400000: Component
+    400002: Component1
+    400004: Component2
+    400006: Component3
+    400008: Component4
+    400010: //RootNode
+    400012: skp6499
+    2300000: Component
+    2300002: Component1
+    2300004: Component2
+    2300006: Component3
+    2300008: Component4
+    2300010: skp6499
+    3300000: Component
+    3300002: Component1
+    3300004: Component2
+    3300006: Component3
+    3300008: Component4
+    3300010: skp6499
+    4300000: Mesh skp6499
+    4300002: Mesh Component
+    4300004: Mesh Component1
+    4300006: Mesh Component2
+    4300008: Mesh Component3
+    4300010: Mesh Component4
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

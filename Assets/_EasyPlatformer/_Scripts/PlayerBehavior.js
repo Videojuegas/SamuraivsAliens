@@ -16,8 +16,15 @@ var playerInput: PlayerInput[];    // Input source
 // Important internal variables - please don't change them blindly
 private var gameOver: boolean;
 static var deathNum: int;
-
-
+function Start () 
+{   
+    if (deathNum > maxfRessurectionsNum)
+    { 
+        life = 10 ;
+        gameOver= false;
+        deathNum=0;
+    }
+}
 //==================================================================================================================================
 // Behave according to playerInput
 function GetInputFor (action: ActorAction): float 
@@ -58,6 +65,7 @@ function Ressurection ()
         {
           Camera.main.GetComponent(FollowTarget).SetNewTarget(revived.transform);
           deathNum++;
+          life = 10 ;
         }
         else 
           deathNum = maxfRessurectionsNum + 1;

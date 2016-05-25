@@ -23,7 +23,7 @@ public class script_canvas_pausa : MonoBehaviour {
 	public void Reiniciar_nivel(){
 		Time.timeScale = 1;
 		this.gameObject.SetActive (false);
-		Application.LoadLevel ("nuevo_juego");
+		Application.LoadLevel ("level1");
 	}
 
 	public void Salir_al_menu_principal(){

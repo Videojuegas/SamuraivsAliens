@@ -23,7 +23,7 @@ function Start ()
 {
    if (!playerBehavior) playerBehavior = GetComponent(PlayerBehavior);
    if (!weaponManager) weaponManager = GetComponent(SimpleWeapon_Manager);
-   if (gameOver) gameOver.SetActive(false);
+   if (gameOver) gameOver.SetActive(false); 
 }
 
 
@@ -31,7 +31,6 @@ function Start ()
 // Process HUD
 function Update () 
 {
-  
   if (playerBehavior.deathNum > playerBehavior.maxfRessurectionsNum)
     { 
       if (gameOver) gameOver.SetActive(true);
@@ -42,8 +41,8 @@ function Update ()
   if (iconCurrentWeapon && weaponsIcons[currentWeapon]) iconCurrentWeapon.texture = weaponsIcons[currentWeapon];
   
   if (pauseMenu && Input.GetKeyDown(KeyCode.Mouse0) && buttonPause.HitTest(Input.mousePosition)) pauseMenu.enabled = !pauseMenu.enabled;
-  
-  lifes.text = "LEFE : " + playerBehavior.life.ToString();
+  var lives:int = playerBehavior.maxfRessurectionsNum -playerBehavior.deathNum;
+  lifes.text = "armo : " + playerBehavior.life.ToString()+ " lives:" +lives.ToString();
   
   var currentWeaponAmmo: int = weaponManager.GetCurrentWeaponAmmo();
   if (currentWeaponAmmo >= 0  &&  currentWeaponAmmo < 9999999) 

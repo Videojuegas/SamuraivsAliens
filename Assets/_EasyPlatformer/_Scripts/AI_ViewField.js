@@ -23,9 +23,9 @@ function Start ()
  
 //-------------------------------------------------------------------------------------------------------------------------
 // Check is it enemy in frustum or not
-function OnTriggerEnter (other : Collider) 
+function OnTriggerEnter (other : Collider)
 {
-	if (!other.isTrigger && other.tag == targetTag) targetInField = other.gameObject;
+    if (!other.isTrigger && other.tag == targetTag) targetInField = other.gameObject;
 }
 
 

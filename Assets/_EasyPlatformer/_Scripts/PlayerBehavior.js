@@ -16,6 +16,7 @@ var playerInput: PlayerInput[];    // Input source
 // Important internal variables - please don't change them blindly
 private var gameOver: boolean;
 static var deathNum: int;
+static var coins: int=0;
 function Start () 
 {   
     if (deathNum > maxfRessurectionsNum)
@@ -52,6 +53,17 @@ function Heal (amount: float)
 { 
   life += amount;
 }
+
+function Coin (amount: float) 
+    { 
+        coins ++;
+    }
+
+
+    function Live (amount: float) 
+        { 
+            maxfRessurectionsNum ++;
+        }
 
 //-------------------------------------------------------------------------------------------------------------------------
 // Ressurect on last Checkpoint

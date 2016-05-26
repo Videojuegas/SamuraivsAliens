@@ -8,6 +8,7 @@ var buttonPause: GUITexture;
 var iconCurrentWeapon: GUITexture;
 var lifes: GUIText; 
 var health: GUIText;
+var coins: GUIText;
 var ammo: GUIText;
 var weaponsIcons: Texture[];
 var gameOver: GameObject;
@@ -67,6 +68,8 @@ function Update ()
   }
   
   health.text += "]";
+
+  coins.text = "○ x " + playerBehavior.coins;
   
   var currentWeaponAmmo: int = weaponManager.GetCurrentWeaponAmmo();
   if (currentWeaponAmmo >= 0  &&  currentWeaponAmmo < 9999999) 

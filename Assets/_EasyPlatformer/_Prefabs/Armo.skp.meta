@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: de7cb57f727111946acd7ddca48a40d3
+timeCreated: 1464217917
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 68efeddfe41bc4a450910d7c98d40bbd
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.3428826, y: 2.2825315, z: 6.250497}
+      lookAt: {x: -0.8237398, y: 0.2032552, z: 0.41692272}
+      up: {x: -0.110337436, y: 0.948456, z: -0.29708067}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3D_Man_Walking
+    100002: //RootNode
+    100004: GeodesicSphere02
+    100006: Group 2
+    100008: Group 3
+    100010: Group 5
+    100012: Group 7
+    100014: Group 9
+    100016: Helmet_dome
+    100018: seg_main
+    100020: seg_main 1
+    100022: seg_main 2
+    100024: seg_main#1
+    100026: seg_main#2
+    100028: Shoulder_ball
+    100030: Shoulder_ball 1
+    100032: Shoulder_Main
+    100034: Shoulders_Full
+    100036: ske3BA
+    100038: ske404
+    100040: ske443
+    100042: ske443 1
+    100044: ske4F1
+    100046: 'Spear Point #1.75'
+    100048: Torso_Full
+    400000: 3D_Man_Walking
+    400002: //RootNode
+    400004: GeodesicSphere02
+    400006: Group 2
+    400008: Group 3
+    400010: Group 5
+    400012: Group 7
+    400014: Group 9
+    400016: Helmet_dome
+    400018: seg_main
+    400020: seg_main 1
+    400022: seg_main 2
+    400024: seg_main#1
+    400026: seg_main#2
+    400028: Shoulder_ball
+    400030: Shoulder_ball 1
+    400032: Shoulder_Main
+    400034: Shoulders_Full
+    400036: ske3BA
+    400038: ske404
+    400040: ske443
+    400042: ske443 1
+    400044: ske4F1
+    400046: 'Spear Point #1.75'
+    400048: Torso_Full
+    2300000: GeodesicSphere02
+    2300002: Group 3
+    2300004: Group 5
+    2300006: Group 7
+    2300008: Group 9
+    2300010: Helmet_dome
+    2300012: seg_main
+    2300014: seg_main 1
+    2300016: seg_main 2
+    2300018: seg_main#1
+    2300020: seg_main#2
+    2300022: Shoulder_ball
+    2300024: Shoulder_ball 1
+    2300026: ske443
+    2300028: ske443 1
+    2300030: 'Spear Point #1.75'
+    3300000: GeodesicSphere02
+    3300002: Group 3
+    3300004: Group 5
+    3300006: Group 7
+    3300008: Group 9
+    3300010: Helmet_dome
+    3300012: seg_main
+    3300014: seg_main 1
+    3300016: seg_main 2
+    3300018: seg_main#1
+    3300020: seg_main#2
+    3300022: Shoulder_ball
+    3300024: Shoulder_ball 1
+    3300026: ske443
+    3300028: ske443 1
+    3300030: 'Spear Point #1.75'
+    4300000: Mesh Group 3
+    4300002: Mesh Group 5
+    4300004: Mesh Group 7
+    4300006: Mesh Group 9
+    4300008: Mesh Shoulder_ball
+    4300010: Mesh Shoulder_ball
+    4300012: Mesh seg_main
+    4300014: Mesh seg_main#1
+    4300016: Mesh seg_main
+    4300018: Mesh seg_main#2
+    4300020: Mesh Helmet_dome
+    4300022: Mesh ske443
+    4300024: 'Mesh Spear Point #1.75'
+    4300026: Mesh GeodesicSphere02
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

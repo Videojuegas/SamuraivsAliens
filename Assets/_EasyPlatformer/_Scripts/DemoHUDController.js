@@ -7,6 +7,7 @@
 var buttonPause: GUITexture;
 var iconCurrentWeapon: GUITexture;
 var lifes: GUIText; 
+var health: GUIText;
 var ammo: GUIText;
 var weaponsIcons: Texture[];
 var gameOver: GameObject;
@@ -33,7 +34,9 @@ function Update ()
 {
   if (playerBehavior.deathNum > playerBehavior.maxfRessurectionsNum)
     { 
-      if (gameOver) gameOver.SetActive(true);
+      //if (gameOver) {gameOver.SetActive(true);}
+      //Cambiar a nuestra escena
+      Application.LoadLevel ("nivel_perdido");
       
     }
      
@@ -42,7 +45,28 @@ function Update ()
   
   if (pauseMenu && Input.GetKeyDown(KeyCode.Mouse0) && buttonPause.HitTest(Input.mousePosition)) pauseMenu.enabled = !pauseMenu.enabled;
   var lives:int = playerBehavior.maxfRessurectionsNum -playerBehavior.deathNum;
-  lifes.text = "armo : " + playerBehavior.life.ToString()+ " lives:" +lives.ToString();
+  //lifes.text = "armo : " + playerBehavior.life.ToString()+ " lives:" +lives.ToString();
+  //var cantidad_de_vidas = playerBehavior.life;
+  var ciclo = 0;
+  lifes.text = "";
+  health.text = "";
+  while (ciclo < lives + 1 ){
+  	lifes.text = lifes.text + "♥";
+	ciclo += 1;
+  }
+  ciclo = 0;
+  health.text = "[";
+  while (ciclo < playerBehavior.life ){
+	  health.text += "◘";
+	  ciclo += 1;
+  }
+  var life_copy = playerBehavior.life;
+  while (life_copy < 10 ){
+	  health.text += " ";
+	  life_copy +=1;
+  }
+  
+  health.text += "]";
   
   var currentWeaponAmmo: int = weaponManager.GetCurrentWeaponAmmo();
   if (currentWeaponAmmo >= 0  &&  currentWeaponAmmo < 9999999) 
